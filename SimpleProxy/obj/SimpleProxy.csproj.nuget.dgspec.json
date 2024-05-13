@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\learning\\middleware-issue\\SimpleProxy\\SimpleProxy.csproj": {}
+    "D:\\learning\\Next14.2.3-Middleware-with-proxy-issue\\SimpleProxy\\SimpleProxy.csproj": {}
   },
   "projects": {
-    "D:\\learning\\middleware-issue\\SimpleProxy\\SimpleProxy.csproj": {
+    "D:\\learning\\Next14.2.3-Middleware-with-proxy-issue\\SimpleProxy\\SimpleProxy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\learning\\middleware-issue\\SimpleProxy\\SimpleProxy.csproj",
+        "projectUniqueName": "D:\\learning\\Next14.2.3-Middleware-with-proxy-issue\\SimpleProxy\\SimpleProxy.csproj",
         "projectName": "SimpleProxy",
-        "projectPath": "D:\\learning\\middleware-issue\\SimpleProxy\\SimpleProxy.csproj",
+        "projectPath": "D:\\learning\\Next14.2.3-Middleware-with-proxy-issue\\SimpleProxy\\SimpleProxy.csproj",
         "packagesPath": "C:\\Users\\AnasArafah\\.nuget\\packages\\",
-        "outputPath": "D:\\learning\\middleware-issue\\SimpleProxy\\obj\\",
+        "outputPath": "D:\\learning\\Next14.2.3-Middleware-with-proxy-issue\\SimpleProxy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
